@@ -8,6 +8,6 @@ Run the Makefile: enter "make"
 
 ## How to run
 
-Enter the executable created: ./runcrossword to enter in custom words or ./runcrossword ***.txt to consider a .txt file of words
+Enter the executable created: ./runcrossword to enter in custom words; ./runcrossword ***.txt to consider a .txt file of words; or ./runcrossword ***.txt ***.txt to output to another file
 
 
