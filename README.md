@@ -4,7 +4,7 @@ A simple crossword validation and generation program written in C
 
 ## How to compile 
 
-Run the make file: enter "make"
+Run the Makefile: enter "make"
 
 ## How to run
 
